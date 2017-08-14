@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.btn-primary {
+    border-color: #ff5a5f;
+    border-bottom-color: #e00007;
+    border-radius: 2px;
+    background-color: #ff5a5f;
+    color: #fff;
+    cursor: pointer;
+    padding: 9px;
+}
+
+.price-item-table-container {
+  text-align: center;
+}
+
+.price-item-table {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.tr.th {
+  text-align: left;
+}
